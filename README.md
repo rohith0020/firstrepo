@@ -1,2 +1,2 @@
 # firstrepo
-my fiest repo
+my first repo
